@@ -108,7 +108,7 @@ Full-stack Next.js products — a city-data explorer and a real-time app. Plus [
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgade06&hide_border=true&theme=tokyonight&ring=6EE7F9&fire=6EE7F9&currStreakLabel=6EE7F9" />
+<img src="https://streak-stats.demolab.com/?user=ayushgade06&hide_border=true&theme=tokyonight&ring=6EE7F9&fire=6EE7F9&currStreakLabel=6EE7F9" />
 
 </div>
 
