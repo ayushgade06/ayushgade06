@@ -111,6 +111,14 @@ Full-stack Next.js products — a city-data explorer and a real-time app. Plus [
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushgade06&theme=tokyonight" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushgade06&theme=tokyonight&utcOffset=5.5" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushgade06/ayushgade06/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushgade06/ayushgade06/output/snake-light.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayushgade06/ayushgade06/output/snake.svg" />
+</picture>
+
 </div>
 
 ---
