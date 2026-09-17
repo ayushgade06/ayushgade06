@@ -108,7 +108,8 @@ Full-stack Next.js products — a city-data explorer and a real-time app. Plus [
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ayushgade06&hide_border=true&theme=tokyonight&ring=6EE7F9&fire=6EE7F9&currStreakLabel=6EE7F9" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushgade06&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushgade06&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
